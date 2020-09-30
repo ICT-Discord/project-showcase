@@ -4,7 +4,7 @@ In deze repository vind je een verzameling van vette projecten gemaakt door Wind
 
 ## Showcase jouw project!
 
-1. Maak een issue aan waarin je verteld waarom jouw project hier getoond moet worden
+1. Maak een [issue] aan waarin je verteld waarom jouw project hier getoond moet worden
 2. Wacht eventuele opmerkingen van de reviewers af en zie je project hier verschijnen!
 
 ## Projecten
@@ -18,6 +18,9 @@ _Link: [github / platform-samples][github/platform-samples]_
 
 _Auteur(s): [GitHub]_
 
-[github/platform-samples]: https://github.com/github/platform-samples
 
+
+[issue]: https://github.com/ICT-Discord/project-showcase/issues/new?assignees=&labels=aanvraag&template=showcase-aanvraag.md&title=%5BAANVRAAG%5D
+
+[github/platform-samples]: https://github.com/github/platform-samples
 [github]: https://github.com/github
