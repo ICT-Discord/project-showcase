@@ -1,0 +1,3 @@
+[submodule "github-platform-samples"]
+	path = github-platform-samples
+	url = https://github.com/github/platform-samples.git
